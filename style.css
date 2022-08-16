@@ -1,0 +1,22 @@
+#notes {
+  font-size: 18px;
+}
+#footer1 {
+  bottom: 0px;
+  position: fixed;
+  background-color: rgb(91, 215, 246);
+  width: 100%;
+  font-size: 20px;
+  padding: 5px;
+  box-shadow: 10px -10px 60px rgb(255, 255, 255);
+}
+body {
+  background-image: url(cool-background.png);
+}
+canvas {
+  box-shadow: 10px -10px 60px rgb(255, 255, 255);
+  border: solid;
+  border-radius: 15px;
+  margin-top: 80px;
+  margin-right: 20px;
+}
